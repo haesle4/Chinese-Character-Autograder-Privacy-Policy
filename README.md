@@ -1,2 +1,2 @@
-# Chinese-Character-Writer-Privacy-Policy
+# Chinese-Character-Autograder-Privacy-Policy
 Privacy Policy for App Chinese Character Writer
