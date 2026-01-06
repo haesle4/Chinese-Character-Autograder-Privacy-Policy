@@ -3,9 +3,9 @@
 **Last updated:** January 2026
 
 ## Overview
-This Privacy Policy explains how **Chinese Character Autograder** (“the App”) handles user information.
+This Privacy Policy explains how the app **Chinese Character Autograder** handles user information.
 
-Your privacy is important to us. The App is designed to work without collecting or transmitting personal data.
+The is designed to work without collecting or transmitting any personal data.
 
 ---
 
@@ -19,7 +19,7 @@ Specifically:
 - No cloud storage
 - No third-party SDKs that collect data
 
-All handwriting input and character analysis are performed **entirely on your device**.
+All handwriting input and character analysis are performed **entirely on users' devices**.
 
 ---
 
@@ -40,8 +40,8 @@ No information is transmitted to external servers.
 ---
 
 ## Children’s Privacy
-The App does not knowingly collect personal information from children under the age of 13.  
-Since no personal data is collected at all, the App complies with applicable child privacy regulations, including COPPA.
+The App does not collect personal information from children under the age of 13.  
+Since no personal data is collected at all, the app complies with applicable child privacy regulations, including COPPA.
 
 ---
 
